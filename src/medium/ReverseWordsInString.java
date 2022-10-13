@@ -1,6 +1,11 @@
 package medium;
 
 public class ReverseWordsInString {
+	/*
+	 * Given a string s, reverse the order of characters in each word within a
+	 * sentence while still preserving whitespace and initial word order.
+	 */
+
 
 	public static void main(String[] args) {
 		String str = "This is a fresh start";
