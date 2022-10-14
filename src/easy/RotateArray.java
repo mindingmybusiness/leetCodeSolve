@@ -7,7 +7,7 @@ public class RotateArray {
 
 	public static void main(String[] args) {
 		int[] array = {1,2,3,6,7};
-		rotate(array,1);
+		rotate(array,3);
 	}
 
 	// Given an array, rotate the array to the right by k steps, where k is
